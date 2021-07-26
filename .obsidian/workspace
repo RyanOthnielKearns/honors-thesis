@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "b1c7346bae753a19",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c01a6f74d5cd3eb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "McLeod 2015, \"Trust\" - Reading Notes.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be66cc40f7ae3cff",
+    "type": "split",
+    "children": [
+      {
+        "id": "8accbdce42a47b85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "deb3b66bd9e61fa9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ae2f05cd1af38a35",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "afddcce9ca27060f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b006dff1c6ed3a6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0903f45513b5e9d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "McLeod 2015, \"Trust\" - Reading Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5c01a6f74d5cd3eb",
+  "lastOpenFiles": [
+    "McLeod 2015, \"Trust\" - Reading Notes.md",
+    "Baier 1986, \"Trust and Antitrust\" - Reading Notes.md",
+    "README.md"
+  ]
+}
