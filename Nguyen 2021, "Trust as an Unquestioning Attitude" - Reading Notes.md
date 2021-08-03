@@ -1,5 +1,5 @@
 # Nguyen 2021, "Trust as an Unquestioning Attitude"
-## Reading Notes | 27 June 2021
+## Reading Notes | 2021 Jun 27
 Tags: #trust #ur-trust #unquestioning-attitude #epistemology #philosophy 
 ___
 

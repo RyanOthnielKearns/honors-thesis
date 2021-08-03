@@ -1,5 +1,5 @@
 # McLeod 2015, "Trust"
-## Reading Notes | 2 July 2021
+## Reading Notes | 2021 July 2
 Tags: #trust #distrust #philosophy #epistemology #stanford-encyclopedia-of-philosophy #SEP-article
 ___
 # Summary
