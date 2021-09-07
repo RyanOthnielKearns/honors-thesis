@@ -1,5 +1,5 @@
 # Tavani 2020, "Search Engines and Ethics"
-## Reading Notes | 21 July 2021
+## Reading Notes | 2021 Jul 21
 Tags: #search-engines #ethics #SEP #technology #trust #epistemology #epistemic-trust #ethical-trust #fake-news #social-media
 ___
 # Summary
