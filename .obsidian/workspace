@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "5c01a6f74d5cd3eb",
+        "id": "e2f59798613bc564",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "202108221526 - notes from Uri meeting 22 August.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "202108221526 - notes from Uri meeting 22 August.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,10 +86,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5c01a6f74d5cd3eb",
+  "active": "e2f59798613bc564",
   "lastOpenFiles": [
-    "Tavani 2020, \"Search Engines and Ethics\" - Reading Notes.md",
+    "202108221526.md",
     "Baier 1986, \"Trust and Antitrust\" - Reading Notes.md",
+    "202107302111.md",
+    "Buechner and Tavani, 2011.md",
+    "Tavani 2020, \"Search Engines and Ethics\" - Reading Notes.md",
     "McLeod 2015, \"Trust\" - Reading Notes.md",
     "README.md"
   ]
