@@ -4,3 +4,13 @@
 	- [[Wachter et al. 2017, "Counterfactual Explanations Without Opening the Black Box" - Reading Notes]]
 	- Addended notes to [[Nguyen 2021, "Trust as an Unquestioning Attitude" - Reading Notes]] from my first pass reading it in February
 	- [[Shmueli 2010, "To Explain or to Predict?" - Reading Notes]]
+	- [[Bhattacharya et al. 1998, "A Formal Model of Trust Based on Outcomes" - Reading Notes]]
+	- [[Doshi-Velez et al. 2017, "Accountability of AI Under the Law - The Role of Explanation" - Reading Notes]]
+	- [[Yarkoni & Westfall 2017, "Choosing Prediction Over Explanation in Psychology- Lessons from Machine Learning" - Reading Notes]]
+	- [[Halpern & Pearl 2005, "Causes and Explanations- A Structural-Model Approach. Part II- Explanations" - Reading Notes]]
+	- [[Hancox-Li 2020, "Robustness in machine learning explanations- does it matter?" - Reading Notes]]
+	- [[Venkatasubramanian and Alfano 2020, "The philosophical basis of algorithmic recourse" - Reading Notes]]
+	- [[Hendricks et al. 2016, "Generating Visual Explanations" - Reading Notes]]
+	- [[Karimi et al. 2020, "A survey of algorithmic recourse- definitions, formulations, solutions, and prospects" - Reading Notes]]
+- Downloaded a couple PDFs but haven't started reading / annotating them:
+	- [[Ribiero et al. 2016, "Why Should I Trust You?" Explaning the Predictions of Any Classifier.pdf]]
