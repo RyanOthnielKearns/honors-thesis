@@ -1,0 +1,6 @@
+- moved a bunch of paper reading notes from the PHIL 350 vault to this one:
+	- [[Taddeo 2010, "Modelling Trust in Artificial Agents, A First Step Toward the Analysis of e-Trust"]]
+	- [[Coeckelbergh 2012, "Can we trust robots?" - Reading Notes]]
+	- [[Wachter et al. 2017, "Counterfactual Explanations Without Opening the Black Box" - Reading Notes]]
+	- Addended notes to [[Nguyen 2021, "Trust as an Unquestioning Attitude" - Reading Notes]] from my first pass reading it in February
+	- [[Shmueli 2010, "To Explain or to Predict?" - Reading Notes]]
