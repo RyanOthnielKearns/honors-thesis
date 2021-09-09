@@ -7,8 +7,10 @@
         "id": "5c01a6f74d5cd3eb",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "pdf",
+          "state": {
+            "file": "Readings/Ribiero et al. 2016, \"Why Should I Trust You?\" Explaning the Predictions of Any Classifier.pdf"
+          }
         }
       }
     ],
@@ -49,7 +51,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 586
   },
   "right": {
     "id": "afddcce9ca27060f",
@@ -65,6 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Readings/Ribiero et al. 2016, \"Why Should I Trust You?\" Explaning the Predictions of Any Classifier.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,15 +86,15 @@
   },
   "active": "5c01a6f74d5cd3eb",
   "lastOpenFiles": [
+    "Readings/Ribiero et al. 2016, \"Why Should I Trust You?\" Explaning the Predictions of Any Classifier.pdf",
+    "Readings/Doshi-Velez 2017, \"Towards A Rigorous Science of Interpretable Machine Learning\".pdf",
+    "Readings/Doshi-Velez et al., \"The Role of Explanation in Algorithmic Trust\".pdf",
+    "Readings/The Mythos of Model Interpretability.pdf",
+    "Readings/How model accuracy and explanation fidelity influence user trust in AI.pdf",
+    "Coeckelbergh 2012, \"Can we trust robots?\" - Reading Notes.md",
+    "Readings/Berg 1995, \"Trust, Reciprocity, and Social History\".pdf",
     "Readings/Asimov, \"The Evitable Conflict\".pdf",
     "Karimi et al. 2020, \"A survey of algorithmic recourse- definitions, formulations, solutions, and prospects\" - Reading Notes.md",
-    "2021 Sep 8 Daily Notes.md",
-    "Untitled.md",
-    "Venkatasubramanian and Alfano 2020, \"The philosophical basis of algorithmic recourse\" - Reading Notes.md",
-    "Venkatasubramanian and Alfano 2020, \"The philosophical basis of algorithmic recourse\".md",
-    "Readings/Ribiero et al. 2016, \"Why Should I Trust You?\" Explaning the Predictions of Any Classifier.pdf",
-    "2021 Jul 26 Preflight.md",
-    "Readings/Ribiero et al. 2016.pdf",
-    "Halpern & Pearl 2005, “Causes and Explanations- A Structural-Model Approach. Part II- Explanations” (ANNOTATED).pdf"
+    "2021 Sep 8 Daily Notes.md"
   ]
 }
