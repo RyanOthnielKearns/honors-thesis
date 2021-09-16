@@ -6,10 +6,23 @@
       {
         "id": "5c01a6f74d5cd3eb",
         "type": "leaf",
+        "dimension": 76.29009762900976,
         "state": {
           "type": "pdf",
           "state": {
-            "file": "Readings/Ribiero et al. 2016, \"Why Should I Trust You?\" Explaning the Predictions of Any Classifier.pdf"
+            "file": "Readings/The One Hundred Year Study on Artificial Intelligence (AI100) 2021 Study Panel Report.pdf"
+          }
+        }
+      },
+      {
+        "id": "898e1bb4d49ccfb7",
+        "type": "leaf",
+        "dimension": 23.70990237099024,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021 Sep 16 Daily Notes.md",
+            "mode": "source"
           }
         }
       }
@@ -51,7 +64,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 586
+    "width": 186
   },
   "right": {
     "id": "afddcce9ca27060f",
@@ -67,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readings/Ribiero et al. 2016, \"Why Should I Trust You?\" Explaning the Predictions of Any Classifier.pdf",
+                "file": "2021 Sep 16 Daily Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,19 +95,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "5c01a6f74d5cd3eb",
+  "active": "898e1bb4d49ccfb7",
   "lastOpenFiles": [
-    "Readings/Ribiero et al. 2016, \"Why Should I Trust You?\" Explaning the Predictions of Any Classifier.pdf",
+    "2021 Sep 16 Daily Notes.md",
+    "Readings/The One Hundred Year Study on Artificial Intelligence (AI100) 2021 Study Panel Report.pdf",
+    "Untitled.md",
+    "Readings/AI100Report_MT_10.pdf",
     "Readings/Doshi-Velez 2017, \"Towards A Rigorous Science of Interpretable Machine Learning\".pdf",
+    "References of Trust in the Explainable Machine Learning Literature.md",
     "Readings/Doshi-Velez et al., \"The Role of Explanation in Algorithmic Trust\".pdf",
-    "Readings/The Mythos of Model Interpretability.pdf",
-    "Readings/How model accuracy and explanation fidelity influence user trust in AI.pdf",
-    "Coeckelbergh 2012, \"Can we trust robots?\" - Reading Notes.md",
-    "Readings/Berg 1995, \"Trust, Reciprocity, and Social History\".pdf",
-    "Readings/Asimov, \"The Evitable Conflict\".pdf",
-    "Karimi et al. 2020, \"A survey of algorithmic recourse- definitions, formulations, solutions, and prospects\" - Reading Notes.md",
-    "2021 Sep 8 Daily Notes.md"
+    "2021 Sep 15 Daily Notes.md",
+    "Readings/Lipton 2018, \"The Mythos of Model Interpretability\".pdf",
+    "Readings/Ryan-Kearns-PHIL-350-Final-Paper-4.pdf"
   ]
 }
