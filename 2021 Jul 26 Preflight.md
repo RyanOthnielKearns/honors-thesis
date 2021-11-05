@@ -23,7 +23,7 @@ So, why read it? I reference at the end (in the **Discussion on Trust** section 
 
 For my thesis I am particularly interested in how digital agents like AI systems may posess _trustworthiness_, and how we can go about assessing this quality in things other than humans. As such, this is relevant literature! In particular Tavani mentions
 - [[Walker 2006]] as a starting point, and
-- [[Buechner and Tavani, 2011]], which goes into much more specific detail in the "multi-agent system" case.
+- [[Buechner and Tavani 2011, "Trust and multi-agent systems- applying the 'diffuse, default approach' to experiments involving artificial agents" - Reading Notes]], which goes into much more specific detail in the "multi-agent system" case.
 
 So, I have these in my backlog of papers to read.
 

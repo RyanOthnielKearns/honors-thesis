@@ -1,5 +1,6 @@
 {
-  "baseFontSize": 18,
-  "theme": "moonstone",
-  "cssTheme": "Traffic Lights"
+  "baseFontSize": 15,
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "translucency": false
 }

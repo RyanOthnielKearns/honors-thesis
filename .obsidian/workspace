@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5c01a6f74d5cd3eb",
+        "id": "c7eb32fd35932904",
         "type": "leaf",
-        "dimension": 76.29009762900976,
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "Readings/The One Hundred Year Study on Artificial Intelligence (AI100) 2021 Study Panel Report.pdf"
-          }
-        }
-      },
-      {
-        "id": "898e1bb4d49ccfb7",
-        "type": "leaf",
-        "dimension": 23.70990237099024,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021 Sep 16 Daily Notes.md",
+            "file": "202111020102 Overfelt, 2021, \"OK, Computer- Building Trust to Make Machine Learning More Effective\" - Reading Notes.md",
             "mode": "source"
           }
         }
@@ -51,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#extended-mind",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 186
+    "width": 392
   },
   "right": {
     "id": "afddcce9ca27060f",
@@ -80,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021 Sep 16 Daily Notes.md",
+                "file": "202111020102 Overfelt, 2021, \"OK, Computer- Building Trust to Make Machine Learning More Effective\" - Reading Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,25 +78,47 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "70aefa05c8ab0966",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0ce9fb16da75c9e4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "202111020102 Overfelt, 2021, \"OK, Computer- Building Trust to Make Machine Learning More Effective\" - Reading Notes.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "898e1bb4d49ccfb7",
+  "active": "c7eb32fd35932904",
   "lastOpenFiles": [
-    "2021 Sep 16 Daily Notes.md",
-    "Readings/The One Hundred Year Study on Artificial Intelligence (AI100) 2021 Study Panel Report.pdf",
-    "Untitled.md",
-    "Readings/AI100Report_MT_10.pdf",
-    "Readings/Doshi-Velez 2017, \"Towards A Rigorous Science of Interpretable Machine Learning\".pdf",
-    "References of Trust in the Explainable Machine Learning Literature.md",
-    "Readings/Doshi-Velez et al., \"The Role of Explanation in Algorithmic Trust\".pdf",
-    "2021 Sep 15 Daily Notes.md",
-    "Readings/Lipton 2018, \"The Mythos of Model Interpretability\".pdf",
-    "Readings/Ryan-Kearns-PHIL-350-Final-Paper-4.pdf"
+    "202111020102 Overfelt, 2021, \"OK, Computer- Building Trust to Make Machine Learning More Effective\" - Reading Notes.md",
+    "202110191320 Notes from Check-In with Thomas re Freewrite and Lit Review.md",
+    "202110102240 Notes from Check-in with Thomas (2021-10-05).md",
+    "McLeod 2015, \"Trust\" - Reading Notes.md",
+    "202110110737 Freewrite for Literature Review Submission 2021-10-11.md",
+    "202110191320.md",
+    "Drafts/Thesis_Freewrite_and_Initial_Literature_Review.pdf",
+    "Drafts/Thesis Prospectus.pdf",
+    "Drafts/Ryan-Kearns-PHIL-350-Final-Paper-4.pdf",
+    "202110102213 Literature Review 2021-10-11.md"
   ]
 }
