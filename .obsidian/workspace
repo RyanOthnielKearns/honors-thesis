@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c7eb32fd35932904",
+        "id": "1af09734864335aa",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "202111020102 Overfelt, 2021, \"OK, Computer- Building Trust to Make Machine Learning More Effective\" - Reading Notes.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#extended-mind",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202111020102 Overfelt, 2021, \"OK, Computer- Building Trust to Make Machine Learning More Effective\" - Reading Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "202111020102 Overfelt, 2021, \"OK, Computer- Building Trust to Make Machine Learning More Effective\" - Reading Notes.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -108,17 +102,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c7eb32fd35932904",
+  "active": "1af09734864335aa",
   "lastOpenFiles": [
-    "202111020102 Overfelt, 2021, \"OK, Computer- Building Trust to Make Machine Learning More Effective\" - Reading Notes.md",
-    "202110191320 Notes from Check-In with Thomas re Freewrite and Lit Review.md",
-    "202110102240 Notes from Check-in with Thomas (2021-10-05).md",
-    "McLeod 2015, \"Trust\" - Reading Notes.md",
-    "202110110737 Freewrite for Literature Review Submission 2021-10-11.md",
-    "202110191320.md",
-    "Drafts/Thesis_Freewrite_and_Initial_Literature_Review.pdf",
-    "Drafts/Thesis Prospectus.pdf",
-    "Drafts/Ryan-Kearns-PHIL-350-Final-Paper-4.pdf",
-    "202110102213 Literature Review 2021-10-11.md"
+    "202111051325 Creel 2020, \"Transparency in Complex Computational Systems\" - Reading Notes.md",
+    "Readings/Not Annotated/Creel 2020, \"Transparency in Complex Computational Systems\".pdf",
+    "202110102255 Nguyen 2021, \"Transparency is Surveillance\" - Reading Notes.md",
+    "Readings/Jenna Burrell 2016, \"How the Machine 'thinks'- Understanding opacity in machine learning algorithms\".pdf",
+    "Hardwig 1991, \"The Role of Trust in Knowledge\" - Reading Notes.md",
+    "Readings/Not Annotated/Nguyen 2021, \"Transparency is Surveillance\".pdf",
+    "Readings/Asimov, The Evitable Conflict.pdf",
+    "Readings/Annotated/Nguyen 2021, “Trust as an Unquestioning Attitude” (annotated).pdf",
+    "Daily Notes/202111051310 2021-11-05 Daily Notes.md",
+    "202110051118 Proposed Literature Review List.md"
   ]
 }
