@@ -1,4 +1,4 @@
-# [[Doshi-Velez et al. 2017, “Accountability of AI Under the Law - The Role of Explanation” (ANNOTATED).pdf|Doshi-Velez et al. 2017, "Accountability of AI Under the Law: The Role of Explanation"]]
+# [[Finale Doshi-Velez et al. 2017, “Accountability of AI Under the Law - The Role of Explanation” (ANNOTATED).pdf|Doshi-Velez et al. 2017, "Accountability of AI Under the Law: The Role of Explanation"]]
 # #reading-notes 
 Tags: #explainable-ai #explanation #accountability #ai-law
 ___

@@ -44,7 +44,7 @@ ___
 			- not sure who I agree with here! in trusting certain models in real-world "triage" situations (e.g. emergency room load-balancing, computer vision in combat, nuclear strike detection) it seems like Humphreys' "opacity" seems very relevant
 	- can have transparency in principle but not in practice -- e.g., if examing every step of a computation was available but would require more than a human lifetime to parse
 		- even this line-by-line reading might not suffice, either, b/c structural opacity can emerge at a higher level, if we don't understand how lower-level steps interact to bring about the algorithm
-	- [[Ribiero et al. 2016, Why Should I Trust You Explaning the Predictions of Any Classifier.pdf|Ribiero et al. 2016]] on how transparency of the model as a whole differs from that of individual predictions / paths (which may have variable length and complexity)
+	- [[Marco Tulio Ribiero et al. 2016, "'Why Should I Trust You?' Explaning the Predictions of Any Classifier".pdf|Ribiero et al. 2016]] on how transparency of the model as a whole differs from that of individual predictions / paths (which may have variable length and complexity)
 		- Creel: the correct analysis is the "knowledge of relations between the subcomponents", not traversing all possible paths (578) -- the sum of all tokens does not stand in for the type
 	- ==Buckner (2019)== on the differences between modern deep neural networks and their predecessors (e.g. perceptrons)
 3. **Run** transparency

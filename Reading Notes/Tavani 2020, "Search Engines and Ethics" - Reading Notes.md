@@ -20,7 +20,7 @@ On the issue of bias, there is disucssion about search engines "personalizing" t
 Closely related are issues affecting our privacy, freedom, and autonomy, and there are discussions in this article about informed consent for things like browser cookies, as well as an extended discussion about the [[Right to Erasure]] (RtE) in Europe, related to the [[General Data Protection Regulation]] (GDPR) passed in 2018.
 
 ## Discussion on Trust
-There is some discussion about trust, though it seems to center mainly on the trust relation between a user and a search engine company (SEC) like Google. Like [[McLeod 2015, "Trust" - Reading Notes|McLeod]], Tavani acknowledges [[Baier 1986, "Trust and Antitrust" - Reading Notes|Baier]]'s 1986 work on trust as seminal for philosophical discussion.
+There is some discussion about trust, though it seems to center mainly on the trust relation between a user and a search engine company (SEC) like Google. Like [[McLeod 2015, "Trust" - Reading Notes|McLeod]], Tavani acknowledges [[Annette Baier 1986, "Trust and Antitrust" - Reading Notes|Baier]]'s 1986 work on trust as seminal for philosophical discussion.
 
 The paper distinguishes between "ethical" and "epistemic" trust. In the former case, we might ask whether an SEC's use of our information is perceieved as transparent or fair. In the latter, we might merely be concerned with the reliability of the information presented via a search engine interface, which is especially interesting when considering things like fake news and echo chamber politics in social media settings.
 

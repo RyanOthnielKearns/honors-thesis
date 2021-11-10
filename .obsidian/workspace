@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "b1c7346bae753a19",
+    "id": "909834189f2820af",
     "type": "split",
     "children": [
       {
-        "id": "1af09734864335aa",
+        "id": "abbe70c52c72895f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Reading Notes/202111051325 Creel 2020, \"Transparency in Complex Computational Systems\" - Reading Notes.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,13 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Reading Notes/202111051325 Creel 2020, \"Transparency in Complex Computational Systems\" - Reading Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -91,28 +95,28 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Reading Notes/202111051325 Creel 2020, \"Transparency in Complex Computational Systems\" - Reading Notes.md"
+              }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "1af09734864335aa",
+  "active": "abbe70c52c72895f",
   "lastOpenFiles": [
-    "202111051325 Creel 2020, \"Transparency in Complex Computational Systems\" - Reading Notes.md",
-    "Readings/Not Annotated/Creel 2020, \"Transparency in Complex Computational Systems\".pdf",
-    "202110102255 Nguyen 2021, \"Transparency is Surveillance\" - Reading Notes.md",
-    "Readings/Jenna Burrell 2016, \"How the Machine 'thinks'- Understanding opacity in machine learning algorithms\".pdf",
-    "Hardwig 1991, \"The Role of Trust in Knowledge\" - Reading Notes.md",
-    "Readings/Not Annotated/Nguyen 2021, \"Transparency is Surveillance\".pdf",
-    "Readings/Asimov, The Evitable Conflict.pdf",
-    "Readings/Annotated/Nguyen 2021, “Trust as an Unquestioning Attitude” (annotated).pdf",
-    "Daily Notes/202111051310 2021-11-05 Daily Notes.md",
-    "202110051118 Proposed Literature Review List.md"
+    "Reading Notes/202111051325 Creel 2020, \"Transparency in Complex Computational Systems\" - Reading Notes.md",
+    "202111020102 Overfelt, 2021, \"OK, Computer- Building Trust to Make Machine Learning More Effective\" - Reading Notes.md",
+    "202110191320 Notes from Check-In with Thomas re Freewrite and Lit Review.md",
+    "Reading Notes/Shmueli 2010, \"To Explain or to Predict?\" - Reading Notes.md",
+    "\"Don't Blame the Algorithm, Trust It\".md",
+    "Yarkoni & Westfall 2017, \"Choosing Prediction Over Explanation in Psychology- Lessons from Machine Learning\" - Reading Notes.md",
+    "Reading Notes/Wachter et al. 2017, \"Counterfactual Explanations Without Opening the Black Box\" - Reading Notes.md",
+    "Reading Notes/Tavani 2020, \"Search Engines and Ethics\" - Reading Notes.md",
+    "Reading Notes/Venkatasubramanian and Alfano 2020, \"The philosophical basis of algorithmic recourse\" - Reading Notes.md",
+    "Reading Notes/Taddeo 2010, \"Modelling Trust in Artificial Agents, A First Step Toward the Analysis of e-Trust\" - Reading Notes.md"
   ]
 }

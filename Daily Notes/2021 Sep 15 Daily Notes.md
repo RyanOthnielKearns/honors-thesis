@@ -12,7 +12,7 @@
 4. What pragmatic import does this have for the XAI literature?
 
 # Unstructured reading notes
-Very cool passage from [[Lipton 2018, "The Mythos of Model Interpretability".pdf|Lipton 2018]]:
+Very cool passage from [[Zachary C. Lipton 2018, "The Mythos of Model Interpretability".pdf|Lipton 2018]]:
 > In some cases, transparency may be at odds with the broader objectives of AI (artificial intelligence). Some arguments against black-box algorithms appear to preclude any model that could match or surpass human abilities on complex tasks. As a concrete example, the short-term goal of building trust with doctors by developing transparent models might clash with the longer-term goal of improving health care.
 
 [[Doshi-Velez et al., "The Role of Explanation in Algorithmic Trust".pdf|Doshi-Velez et al.]] say something similar here:

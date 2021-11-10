@@ -2,7 +2,7 @@
 	- lots of potential unlocked that's not possible w simpler linear models
 	- but hard to explain / interpret
 - **variable importance**: for $\mathbf{x} = (x_1, \dots, x_n)$ which $x_j$ are important?
-	- variables might be important for 3 (or 4) reasons: ==#TODO look up slides==
+	- variables might be important for 3 (or 4) reasons: ==look up on slides #TODO==
 	- $A$ is an important variable if changing $A$ changes $B$ where $B$ is important
 		- importance is *transferred*, not created (for purposes here)
 - literature
