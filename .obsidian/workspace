@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reading Notes/202111051325 Creel 2020, \"Transparency in Complex Computational Systems\" - Reading Notes.md",
+            "file": "Daily Notes/202111091800 In Prep for the Outline (2021-11-09).md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading Notes/202111051325 Creel 2020, \"Transparency in Complex Computational Systems\" - Reading Notes.md",
+                "file": "Daily Notes/202111091800 In Prep for the Outline (2021-11-09).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reading Notes/202111051325 Creel 2020, \"Transparency in Complex Computational Systems\" - Reading Notes.md"
+                "file": "Daily Notes/202111091800 In Prep for the Outline (2021-11-09).md"
               }
             }
           }
@@ -108,15 +108,15 @@
   },
   "active": "abbe70c52c72895f",
   "lastOpenFiles": [
-    "Reading Notes/202111051325 Creel 2020, \"Transparency in Complex Computational Systems\" - Reading Notes.md",
-    "202111020102 Overfelt, 2021, \"OK, Computer- Building Trust to Make Machine Learning More Effective\" - Reading Notes.md",
-    "202110191320 Notes from Check-In with Thomas re Freewrite and Lit Review.md",
-    "Reading Notes/Shmueli 2010, \"To Explain or to Predict?\" - Reading Notes.md",
-    "\"Don't Blame the Algorithm, Trust It\".md",
-    "Yarkoni & Westfall 2017, \"Choosing Prediction Over Explanation in Psychology- Lessons from Machine Learning\" - Reading Notes.md",
-    "Reading Notes/Wachter et al. 2017, \"Counterfactual Explanations Without Opening the Black Box\" - Reading Notes.md",
+    "Daily Notes/202111091800 In Prep for the Outline (2021-11-09).md",
+    "Reading Notes/Taddeo 2010, \"Modelling Trust in Artificial Agents, A First Step Toward the Analysis of e-Trust\" - Reading Notes.md",
     "Reading Notes/Tavani 2020, \"Search Engines and Ethics\" - Reading Notes.md",
-    "Reading Notes/Venkatasubramanian and Alfano 2020, \"The philosophical basis of algorithmic recourse\" - Reading Notes.md",
-    "Reading Notes/Taddeo 2010, \"Modelling Trust in Artificial Agents, A First Step Toward the Analysis of e-Trust\" - Reading Notes.md"
+    "Readings/Annotated/Tavani 2020, \"Search Engines and Ethics\" (annotated).pdf",
+    "Walker 2006.md",
+    "Reading Notes/McLeod 2015, \"Trust\" - Reading Notes.md",
+    "Readings/Not Annotated/Pearl Pu and Li Chen 2006, \"Trust Building with Explanation Interfaces\".pdf",
+    "Readings/Not Annotated/Alyssa Glass et al. 2008, \"Toward Establishing Trust in Adaptive Agents\".pdf",
+    "Readings/Not Annotated/Andrea Papenmeier et al. 2019, \"How model accuracy and explanation fidelity influence user trust in AI\".pdf",
+    "Readings/Not Annotated/Been Kim 2015, \"Interactive and Interpretable Machine Learning Models for Human Machine Collaboration\".pdf"
   ]
 }

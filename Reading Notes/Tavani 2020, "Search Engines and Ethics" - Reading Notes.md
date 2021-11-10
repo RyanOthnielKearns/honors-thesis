@@ -1,6 +1,6 @@
-# Tavani 2020, "Search Engines and Ethics"
+# [[Tavani 2020, "Search Engines and Ethics" (annotated).pdf|Tavani 2020, "Search Engines and Ethics"]]
 ## Reading Notes | 2021 Jul 21
-Tags: #search-engines #ethics #SEP #technology #trust #epistemology #epistemic-trust #ethical-trust #fake-news #social-media
+Tags: #search-engines #ethics #SEP #technology #trust #epistemology #epistemic-trust #ethical-trust #fake-news #social-media #reading-notes 
 ___
 # Summary
 This SEP article provides a broad reference for contemporary ethical and policy-related questions around search engines. *Search engine* is here defined as "an information retrieval system that allows for keyword searches of distributed digital text" ([[Halavais 2009]], p. 5-6).

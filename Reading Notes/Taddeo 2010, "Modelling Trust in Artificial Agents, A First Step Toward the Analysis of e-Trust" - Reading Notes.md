@@ -1,4 +1,4 @@
-# [[Taddeo 2010, "Modelling Trust in Artificial Agents, A First Step Toward the Analysis of e-Trust" (ANNOTATED).pdf|Taddeo 2010, "Modelling Trust in Artificial Agents, A First Step Toward the Analysis of e-Trust"]]
+# [[Mariarosaria Taddeo 2010, "Modelling Trust in Artificial Agents, A First Step Toward the Analysis of e-Trust".pdf|Taddeo 2010, "Modelling Trust in Artificial Agents, A First Step Toward the Analysis of e-Trust"]]
 ## #reading-notes 
 Tags: #trust #e-trust #trustworthiness #ai #artificial-agents
 Date: 2020-11-15
