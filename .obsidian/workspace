@@ -4,13 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "abbe70c52c72895f",
+        "id": "25a91edf59281f04",
+        "type": "split",
+        "children": [
+          {
+            "id": "abbe70c52c72895f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Readings/Not Annotated/Zachary C. Lipton 2018, \"The Mythos of Model Interpretability\".pdf"
+              }
+            }
+          },
+          {
+            "id": "d9a80007f9a4d024",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/202111091800 In Prep for the Outline (2021-11-09).md",
+                "mode": "preview"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "f7588f34b03ccf70",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/202111091800 In Prep for the Outline (2021-11-09).md",
-            "mode": "source"
+            "file": "202111092050 Outline.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/202111091800 In Prep for the Outline (2021-11-09).md",
+                "file": "202111092050 Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,27 +124,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/202111091800 In Prep for the Outline (2021-11-09).md"
+                "file": "202111092050 Outline.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "abbe70c52c72895f",
+  "active": "f7588f34b03ccf70",
   "lastOpenFiles": [
+    "202111092050 Outline.md",
     "Daily Notes/202111091800 In Prep for the Outline (2021-11-09).md",
-    "Reading Notes/Taddeo 2010, \"Modelling Trust in Artificial Agents, A First Step Toward the Analysis of e-Trust\" - Reading Notes.md",
-    "Reading Notes/Tavani 2020, \"Search Engines and Ethics\" - Reading Notes.md",
-    "Readings/Annotated/Tavani 2020, \"Search Engines and Ethics\" (annotated).pdf",
-    "Walker 2006.md",
-    "Reading Notes/McLeod 2015, \"Trust\" - Reading Notes.md",
-    "Readings/Not Annotated/Pearl Pu and Li Chen 2006, \"Trust Building with Explanation Interfaces\".pdf",
     "Readings/Not Annotated/Alyssa Glass et al. 2008, \"Toward Establishing Trust in Adaptive Agents\".pdf",
+    "202111092259 Alyssa Glass et al. 2008, \"Toward Establishing Trust in Adaptive Agents\" - Reading Notes.md",
     "Readings/Not Annotated/Andrea Papenmeier et al. 2019, \"How model accuracy and explanation fidelity influence user trust in AI\".pdf",
-    "Readings/Not Annotated/Been Kim 2015, \"Interactive and Interpretable Machine Learning Models for Human Machine Collaboration\".pdf"
+    "202111092256 Andrea Papenmeier et al. 2019, \"How model accuracy and explanation fidelity influence user trust in AI\" - Reading Notes.md",
+    "202111092144 Filip Karlo Dosilovic et al. 2018, \"Explainable Artificial Intelligence- A Survey\" - Reading Notes.md",
+    "Daily Notes/202111051310 2021-11-05 Daily Notes.md",
+    "202111092150 Zachary C. Lipton 2018, \"The Mythos of Model Interpretability\" - Reading Notes.md",
+    "Readings/Not Annotated/Zachary C. Lipton 2018, \"The Mythos of Model Interpretability\".pdf"
   ]
 }
