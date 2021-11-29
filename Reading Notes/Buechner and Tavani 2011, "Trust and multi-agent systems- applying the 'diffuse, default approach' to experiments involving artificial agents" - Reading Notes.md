@@ -1,3 +1,4 @@
+# [[Buechner and Tavani 2011, “Trust and multi-agent systems- applying the “diffuse, default model” of trust to experiments involving artificial agents” (partial annotations).pdf|Buechner and Tavani 2011, “Trust and multi-agent systems: applying the “diffuse, default model” of trust to experiments involving artificial agents”]]
 - using experiments about trust in multi-agent systems (models for trust) as motivation for a more precise nature of trust in literature
 	- ethicists should make use of the data
 - particular model of trust advocated has 4 conditions (the formalization of $c$ is absent from the authors' definition as they define as only a 2-place relation):

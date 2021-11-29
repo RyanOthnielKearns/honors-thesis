@@ -4,41 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "25a91edf59281f04",
-        "type": "split",
-        "children": [
-          {
-            "id": "abbe70c52c72895f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Readings/Not Annotated/Zachary C. Lipton 2018, \"The Mythos of Model Interpretability\".pdf"
-              }
-            }
-          },
-          {
-            "id": "d9a80007f9a4d024",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/202111091800 In Prep for the Outline (2021-11-09).md",
-                "mode": "preview"
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "f7588f34b03ccf70",
+        "id": "fe146d58fcddc92d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "202111092050 Outline.md",
-            "mode": "preview"
+            "file": "Readings/Not Annotated/Primiero and Taddeo 2012, \"A modal type theory for formalizing trusted communications\".pdf"
           }
         }
       }
@@ -80,7 +51,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392
+    "width": 296.0055618286133
   },
   "right": {
     "id": "afddcce9ca27060f",
@@ -96,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202111092050 Outline.md",
+                "file": "Readings/Not Annotated/Primiero and Taddeo 2012, \"A modal type theory for formalizing trusted communications\".pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,28 +95,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202111092050 Outline.md"
+                "file": "Readings/Not Annotated/Primiero and Taddeo 2012, \"A modal type theory for formalizing trusted communications\".pdf"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 143.6612548828125
   },
-  "active": "f7588f34b03ccf70",
+  "active": "fe146d58fcddc92d",
   "lastOpenFiles": [
-    "202111092050 Outline.md",
-    "Daily Notes/202111091800 In Prep for the Outline (2021-11-09).md",
-    "Readings/Not Annotated/Alyssa Glass et al. 2008, \"Toward Establishing Trust in Adaptive Agents\".pdf",
-    "202111092259 Alyssa Glass et al. 2008, \"Toward Establishing Trust in Adaptive Agents\" - Reading Notes.md",
-    "Readings/Not Annotated/Andrea Papenmeier et al. 2019, \"How model accuracy and explanation fidelity influence user trust in AI\".pdf",
-    "202111092256 Andrea Papenmeier et al. 2019, \"How model accuracy and explanation fidelity influence user trust in AI\" - Reading Notes.md",
-    "202111092144 Filip Karlo Dosilovic et al. 2018, \"Explainable Artificial Intelligence- A Survey\" - Reading Notes.md",
-    "Daily Notes/202111051310 2021-11-05 Daily Notes.md",
-    "202111092150 Zachary C. Lipton 2018, \"The Mythos of Model Interpretability\" - Reading Notes.md",
-    "Readings/Not Annotated/Zachary C. Lipton 2018, \"The Mythos of Model Interpretability\".pdf"
+    "Readings/Not Annotated/Primiero and Taddeo 2012, \"A modal type theory for formalizing trusted communications\".pdf",
+    "202111281723.md",
+    "Readings/Not Annotated/Mariarosaria Taddeo 2010, \"Modelling Trust in Artificial Agents, A First Step Toward the Analysis of e-Trust\".pdf",
+    "Readings/Annotated/Tavani 2020, \"Search Engines and Ethics\" (annotated).pdf",
+    "Reading Notes/Taddeo 2010, \"Modelling Trust in Artificial Agents, A First Step Toward the Analysis of e-Trust\" - Reading Notes.md",
+    "2021 Oct 1 - Prospectus.md",
+    "Taddeo 2010, \"Modelling Trust in Artificial Agents, A First Step Toward the Analysis of e-Trust\".pdf.md",
+    "202111281439 Trust Formulation for 2021-11-30 Deliverable.md",
+    "202111281602 Trust as a Four-Place Relation, Take I.md",
+    "202111161145 Trust formulation.md"
   ]
 }
