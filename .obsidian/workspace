@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fe146d58fcddc92d",
+        "id": "97d9fa723894b310",
         "type": "leaf",
         "state": {
-          "type": "pdf",
-          "state": {
-            "file": "Readings/Not Annotated/Primiero and Taddeo 2012, \"A modal type theory for formalizing trusted communications\".pdf"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -51,7 +49,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.0055618286133
+    "width": 296.0055618286133,
+    "collapsed": true
   },
   "right": {
     "id": "afddcce9ca27060f",
@@ -67,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readings/Not Annotated/Primiero and Taddeo 2012, \"A modal type theory for formalizing trusted communications\".pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,9 +92,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Readings/Not Annotated/Primiero and Taddeo 2012, \"A modal type theory for formalizing trusted communications\".pdf"
-              }
+              "state": {}
             }
           }
         ]
@@ -105,17 +101,17 @@
     "direction": "horizontal",
     "width": 143.6612548828125
   },
-  "active": "fe146d58fcddc92d",
+  "active": "97d9fa723894b310",
   "lastOpenFiles": [
+    "Readings/Not Annotated/Mariarosaria Taddeo 2010, \"Trust in Technology- a Distinctive and a Problematic Relation\".pdf",
+    "202111281756 Mariarosaria Taddeo 2010, \"Trust in Technology- a Distinctive and a Problematic Relation\" - Reading Notes.md",
+    "202111281723 Primiero and Taddeo 2012, \"A modal type theory for formalizing trusted communications\" - Reading Notes.md",
     "Readings/Not Annotated/Primiero and Taddeo 2012, \"A modal type theory for formalizing trusted communications\".pdf",
-    "202111281723.md",
     "Readings/Not Annotated/Mariarosaria Taddeo 2010, \"Modelling Trust in Artificial Agents, A First Step Toward the Analysis of e-Trust\".pdf",
     "Readings/Annotated/Tavani 2020, \"Search Engines and Ethics\" (annotated).pdf",
     "Reading Notes/Taddeo 2010, \"Modelling Trust in Artificial Agents, A First Step Toward the Analysis of e-Trust\" - Reading Notes.md",
     "2021 Oct 1 - Prospectus.md",
     "Taddeo 2010, \"Modelling Trust in Artificial Agents, A First Step Toward the Analysis of e-Trust\".pdf.md",
-    "202111281439 Trust Formulation for 2021-11-30 Deliverable.md",
-    "202111281602 Trust as a Four-Place Relation, Take I.md",
-    "202111161145 Trust formulation.md"
+    "202111281439 Trust Formulation for 2021-11-30 Deliverable.md"
   ]
 }
