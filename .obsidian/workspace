@@ -4,60 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6532d005f39ba214",
-        "type": "split",
-        "children": [
-          {
-            "id": "97d9fa723894b310",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202111291545 Outline v2 for Submission to Thomas.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "2c8d42a993482b29",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Readings/Not Annotated/Primiero and Taddeo 2012, \"A modal type theory for formalizing trusted communications\".pdf"
-              }
-            }
+        "id": "3539b84a43201264",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "202112142205 Notes from meeting with Katie Creel.md",
+            "mode": "preview"
           }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "fc9dab1118b81ad6",
-        "type": "split",
-        "children": [
-          {
-            "id": "3fda2b9078b80572",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202110102213 Literature Review 2021-10-11.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "9eb096f94238e252",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Readings/Annotated/Nguyen 2021, “Trust as an Unquestioning Attitude” (annotated).pdf"
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -113,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202111291545 Outline v2 for Submission to Thomas.md",
+                "file": "202112142205 Notes from meeting with Katie Creel.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202111291545 Outline v2 for Submission to Thomas.md"
+                "file": "202112142205 Notes from meeting with Katie Creel.md"
               }
             }
           }
@@ -152,17 +107,17 @@
     "direction": "horizontal",
     "width": 256.5
   },
-  "active": "97d9fa723894b310",
+  "active": "3539b84a43201264",
   "lastOpenFiles": [
-    "202111291545 Outline v2 for Submission to Thomas.md",
+    "202112142205 Notes from meeting with Katie Creel.md",
+    "Readings/Annotated/Nguyen 2021, “Trust as an Unquestioning Attitude” (annotated).pdf",
+    "202110102213 Literature Review 2021-10-11.md",
     "Readings/Not Annotated/Primiero and Taddeo 2012, \"A modal type theory for formalizing trusted communications\".pdf",
+    "202111291545 Outline v2 for Submission to Thomas.md",
     "Readings/Not Annotated/Mariarosaria Taddeo 2021, \"On The Risks of Trusting Artificial Intelligence- The Case of Cybersecurity\".pdf",
     "Readings/Not Annotated/Mariarosaria Taddeo 2010, \"Modelling Trust in Artificial Agents, A First Step Toward the Analysis of e-Trust\".pdf",
     "Readings/Not Annotated/Mariarosaria Taddeo 2010, \"Trust in Technology- a Distinctive and a Problematic Relation\".pdf",
     "Readings/Annotated/Buechner and Tavani 2011, “Trust and multi-agent systems- applying the “diffuse, default model” of trust to experiments involving artificial agents” (partial annotations).pdf",
-    "202110102213 Literature Review 2021-10-11.md",
-    "Untitled.md",
-    "Readings/Annotated/Nguyen 2021, “Trust as an Unquestioning Attitude” (annotated).pdf",
-    "202111281439 Trust Formulation for 2021-11-30 Deliverable.md"
+    "Untitled.md"
   ]
 }
